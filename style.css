@@ -1,0 +1,55 @@
+/* font-family: 'Playfair Display', serif; */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header part css start here */
+header{
+    width: 90%;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 35px;
+}
+.logo{
+    width: 20%;
+    float: left;
+    margin: auto;
+}
+nav{
+    width: 50%;
+    float: right;
+}
+nav ul{
+
+list-style: none;
+}
+nav ul li{
+    
+float: left;
+    
+margin-left: 107px;
+    
+color: #626262;
+    
+font-size: 14px;
+    
+text-transform: uppercase;
+
+font-family: 'Playfair Display', serif;
+}
+
+/* header part css end here */
+
+/* banner part css start here */
+
+.banner{
+
+width: 90%;
+
+margin: auto;
+}
+.banner img{
+    width: 100%;
+}
+
+/* banner part css end here */
